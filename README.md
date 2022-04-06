@@ -21,7 +21,7 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/ChefPython84/app/ChefPython84-profile-views"/></a>
 </p>
 
-
+![](https://komarev.com/ghpvc/?username=your-github-ChefPython84&style=for-the-badge)
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=COUTURIER-Erwan&label=Nombre%20de%20vues&color=0e75b6&style=plastic" alt="COUTURIER-Erwan" />
 </p>
