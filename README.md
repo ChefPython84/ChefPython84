@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour, je suis Erwan Couturier</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=%C3%89tudiant+MMI+%C3%A0+l'IUT+de+Troyes;D%C3%A9veloppeur+Full+Stack+junior;Militaire+du+rang;Secr%C3%A9taire+chez+CAMPUS3;Auto-entrepreneur)](https://git.io/typing-svg)
+<h2 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=%C3%89tudiant+MMI+%C3%A0+l'IUT+de+Troyes;D%C3%A9veloppeur+Full+Stack+junior;Militaire+du+rang;Secr%C3%A9taire+chez+CAMPUS3;Auto-entrepreneur)](https://git.io/typing-svg)</h2>
 
 ## Les visio-conférences
 
