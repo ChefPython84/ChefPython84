@@ -4,6 +4,10 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4500&center=true&lines=%C3%89tudiant+MMI+%C3%A0+l'IUT+de+Troyes;D%C3%A9veloppeur+Full+Stack+junior;Militaire+du+rang;Secr%C3%A9taire+chez+CAMPUS3;Auto-entrepreneur"></a>
 </p>
 
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=COUTURIER-Erwan&label=Nombre%20de%20vues&color=0e75b6&style=plastic" alt="COUTURIER-Erwan" />
+	
+</p>
 
 
 ## Les visio-conférences
