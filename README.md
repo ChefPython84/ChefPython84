@@ -3,11 +3,12 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4500&center=true&lines=%C3%89tudiant+MMI+%C3%A0+l'IUT+de+Troyes;D%C3%A9veloppeur+Full+Stack+junior;Militaire+du+rang;Secr%C3%A9taire+chez+CAMPUS3;Auto-entrepreneur"></a>
 </p>
+</br>
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=COUTURIER-Erwan&label=Nombre%20de%20vues&color=0e75b6&style=plastic" alt="COUTURIER-Erwan" />
-	
 </p>
+</br>
 
 ## 👨🏼‍💼 Qui suis-je ?
 
@@ -16,7 +17,7 @@
 -   :computer: Développeur du site de `CAMPUS 3`
 -   👨‍✈️: Militaire du rang à la `Marine Nationale `
 -   :memo: À la recherche  d'une alternance en tant que `développeur web Full Stack` pour 2 ans à partir de septembre 2022.
-
+</br>
 
 ## Les visio-conférences
 
