@@ -20,7 +20,7 @@
   <a href="https://github.com/ChefPython84/Simple-View-Counter">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/ChefPython84/app/ChefPython84-profile-views"/></a>
 </p>
-
+![image title](https://rushter.com/counter.svg)
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=COUTURIER-Erwan&label=Nombre%20de%20vues&color=0e75b6&style=plastic" alt="COUTURIER-Erwan" />
