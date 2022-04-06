@@ -1,12 +1,10 @@
 <h1 align="center">Bonjour, je suis Erwan Couturier</h1>
 
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4500&center=true&lines=%C3%89tudiant+MMI+%C3%A0+l'IUT+de+Troyes;D%C3%A9veloppeur+Full+Stack+junior;Militaire+du+rang;Secr%C3%A9taire+chez+CAMPUS3;Auto-entrepreneur"></a>
-</p>
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F7A826&width=425&lines=%C3%89tudiant+MMI+%C3%A0+l'IUT+de+Troyes;D%C3%A9veloppeur+Full-Stack+React+%2F+PHP"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=20&duration=4500&center=true&lines=%C3%89tudiant+MMI+%C3%A0+l'IUT+de+Troyes;D%C3%A9veloppeur+Full+Stack+junior;Militaire+du+rang;Secr%C3%A9taire+chez+CAMPUS3;Auto-entrepreneur"></a>
 </p>
+
+
 
 ## Les visio-conférences
 
