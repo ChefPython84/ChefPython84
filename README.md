@@ -11,6 +11,11 @@
 
 ## 👨🏼‍💼 Qui suis-je ?
 
+-   :information_desk_person: `Curieux` | `Entrepreneur` | `Rigoureux` 
+-   :school: Je suis `étudiant en MMI` à l'IUT de Troyes
+-   :computer: Développeur du site de `CAMPUS 3`
+-   👨‍✈️: Militaire du rang à la `Marine Nationale `
+-   :memo: À la recherche  d'une alternance en tant que `développeur web Full Stack` pour 2 ans à partir de septembre 2022.
 
 
 ## Les visio-conférences
