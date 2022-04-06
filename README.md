@@ -1,5 +1,7 @@
 # Bonjour, je m'appelle Erwan Couturier
 
+<p style="text-align: center;">Bonjour, je m'appelle Erwan Couturier</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&width=500&lines=%C3%89tudiant+MMI+%C3%A0+l'IUT+de+Troyes;D%C3%A9veloppeur+Full+Stack+junior;Militaire+du+rang;Secr%C3%A9taire+chez+CAMPUS3;Auto-entrepreneur)](https://git.io/typing-svg)
 
 ## Les visio-conférences
