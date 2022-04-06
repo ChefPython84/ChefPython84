@@ -18,9 +18,7 @@
   <a href="https://github.com/ChefPython841?tab=followers">
     <img alt="followers" title="Abonne toi à moi sur Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ChefPython84?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/ChefPython84/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/ChefPython84-profile-views"/></a>
-	
-	![image title](https://rushter.com/counter.svg)
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/ChefPython84"/></a>
 </p>
 
 
